@@ -31,6 +31,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{D27C83
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.BB9.Foundation.Serialization", "src\Foundation\Serialization\code\Hackathon.BB9.Foundation.Serialization.csproj", "{BAFB30B4-954B-4163-B6B4-3E66E8ABDE66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hackathon.BB9.Project.Website", "src\Project\Website\code\Hackathon.BB9.Project.Website.csproj", "{C76DDF02-27D4-465C-B22E-6D95DCAAA114}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{BAFB30B4-954B-4163-B6B4-3E66E8ABDE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BAFB30B4-954B-4163-B6B4-3E66E8ABDE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BAFB30B4-954B-4163-B6B4-3E66E8ABDE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76DDF02-27D4-465C-B22E-6D95DCAAA114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76DDF02-27D4-465C-B22E-6D95DCAAA114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76DDF02-27D4-465C-B22E-6D95DCAAA114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76DDF02-27D4-465C-B22E-6D95DCAAA114}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -48,6 +54,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D27C83D2-2EAF-4E44-A1ED-2B3C2EBB5854} = {DAFED8F5-6CBD-4384-AAD6-DC3BCCF24911}
 		{BAFB30B4-954B-4163-B6B4-3E66E8ABDE66} = {4FDA1DCD-D33E-447E-91C1-F4AE818E2CF0}
+		{C76DDF02-27D4-465C-B22E-6D95DCAAA114} = {15D97D61-D597-42EC-B7E9-E9EC8130E630}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311DA37D-528B-43B2-A99B-E7253F841D46}
