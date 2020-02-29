@@ -1,0 +1,18 @@
+﻿---
+ID: "ae8b881b-dce6-4f7d-8652-24d34dd4bf63"
+Parent: "c1d79869-edfe-47fe-b314-c9877150fab2"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Sign Up Successful Page/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T100633Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
