@@ -1,0 +1,36 @@
+<sc-page>
+  <div scPageHeader>
+    <sc-global-header [appName]="'Hackathon Voter' | translate">
+      <a href="#" scGlobalLogo></a>
+      <!-- AccountInformation gets accountName and accountImageUrl automatically from Sitecore context which is configured in AppModule -->
+      <sc-account-information (logout)="logoutService.logout()"></sc-account-information>
+    </sc-global-header>
+  </div>
+  <div scPageAppHeader>
+    <sc-application-header [text]="'Topic-Team selector' | translate" class="applicationheader"></sc-application-header>
+  </div>
+
+  <article scPageContent class="p-3">
+    <!-- Fetch items -->
+    <div class="card mb-3">
+      <div class="card-block">
+        <p class="card-text">Team-Topic selector</p>
+        <p class="card-text">Select the submitted topics for the teams.</p>
+        <div class="list-group mb-2" *ngIf="(teams)">
+          <div *ngFor="let team of teams" href="#" class="list-group-item flex-column align-items-start">
+            <div class="d-flex w-100 justify-content-between">
+              <h5 class="mb-1">{{ team.Name }}</h5>
+              <sc-dropdown>
+                <button scButton scDropdownToggle>{{team.TopicName != null ? team.TopicName : "Topic"}}</button>
+                <sc-dropdown-menu>
+                  <a *ngFor="let topic of topics" scDropdownItem href="javascript:void(0)" (click)="editTeam(topic.Id, team.Id)">{{ topic.Title }}</a>
+                </sc-dropdown-menu>
+              </sc-dropdown>
+            </div>
+          </div>
+        </div>
+        <button scButton="primary" (click)="save()">Save</button>
+      </div>
+    </div>
+  </article>
+</sc-page>
