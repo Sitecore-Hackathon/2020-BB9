@@ -1,0 +1,30 @@
+﻿---
+ID: "22ab3413-583a-42fb-80fe-5856159eb684"
+Parent: "33ef61dd-df11-47aa-8d13-b5f4b3535933"
+Template: "16b71753-e859-41cc-9343-db2c26612e1b"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2020/Teams/fasdfas
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "127a496f-d255-428c-877c-88c574e10507"
+      Hint: Contact Email
+      Value: dd@gg.hh
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T174310Z
+    - ID: "398a304b-6ade-4480-8c8b-83a05eeead38"
+      Hint: Name
+      Value: fasdfas
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "65bbc0c0-f014-43e9-9d70-d4ddea6b2708"
+      Hint: Country
+      Value: dfasdfas
+    - ID: "edd9dde4-4f30-4d04-8512-3fdcf925515f"
+      Hint: Contact GitHub Profile
+      Value: dgfasdgfas

@@ -5,6 +5,10 @@ Template: "05fe45d4-b9c7-40de-b767-7c5abe7119f9"
 Path: /sitecore/Forms/Sign Up/Form Page/Sign Up/SubmitActions/Save Team
 DB: master
 SharedFields:
+- ID: "5c796924-3f06-4d1f-8510-8ad9a4244477"
+  Hint: Parameters
+  Value: |
+    {"selectEmailFieldId":"{063A2CA6-95CF-4CC9-A307-EE7108AF24FB}"}
 - ID: "abc57b6d-5542-4ab9-a889-106225a032e6"
   Hint: Submit Action
   Value: "{183F7F46-18DE-4E88-A598-FE45F7BCE3D9}"

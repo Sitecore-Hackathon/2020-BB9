@@ -11,6 +11,9 @@ SharedFields:
 - ID: "2c6e7306-2871-473a-9149-71443182b8e8"
   Hint: Model Type
   Value: Hackathon.BB9.Foundation.Forms.SubmitActions.SaveTeam
+- ID: "d83b5c6b-7230-419f-bd75-4e2d20c87a18"
+  Hint: Editor
+  Value: "{F9419E3D-7461-41BF-BCD4-F2DAA6B7C59F}"
 Languages:
 - Language: en
   Versions:

@@ -1,0 +1,25 @@
+﻿---
+ID: "f5a42d41-5a31-4816-98e0-d8f4dbdc3cb4"
+Parent: "0a171918-31a4-4c20-9e2d-12332416a319"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/SaveTeamEmail/PageSettings/HeaderTitle
+DB: core
+SharedFields:
+- ID: "ac264d78-d730-4c59-8b10-2d8a67e76ae4"
+  Hint: Id
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: Select email to send
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T150551Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

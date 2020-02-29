@@ -1,0 +1,46 @@
+﻿---
+ID: "bc3f9d94-f6f2-4944-b498-28439c581498"
+Parent: "25046f54-4206-4a87-9f70-58d708b17468"
+Template: "a5491b5b-9423-4d8a-83cc-05c5b2348ff3"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/SaveTeamEmail/PageSettings/SelectEmailForm/SelectEmail
+DB: core
+SharedFields:
+- ID: "0cc7f24b-2013-46c6-8ae3-5233d094ff7c"
+  Hint: StaticData
+  Value: "{EC095310-746F-4C1B-A73F-941863564DC2}"
+- ID: "3e079fc3-6b2d-41c9-9204-374a786fc761"
+  Hint: BindingConfiguration
+  Value: selectEmailFieldId=SelectedItemId
+- ID: "4cec56f0-9fe2-4980-8085-62b0a0ab51ec"
+  Hint: Database
+  Value: $context_contentdatabase
+- ID: "a176e7b0-1c0b-4f2e-a494-2df342a75c0e"
+  Hint: IsLabelOnTop
+  Type: Checkbox
+  Value: 1
+- ID: "ac264d78-d730-4c59-8b10-2d8a67e76ae4"
+  Hint: Id
+  Value: SelectEmail
+- ID: "e0f5c2e5-ea32-4463-aef5-925d4194b4a2"
+  Hint: IsCheckModeEnabled
+  Type: Checkbox
+  Value: 0
+- ID: "e53dd72a-cc21-4771-a6b4-17762365e2b7"
+  Hint: IsRequired
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T162150Z
+    - ID: "3885a716-2eed-47ae-9132-32225f0458ff"
+      Hint: FormLabel
+      Value: Select Email Campaign
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

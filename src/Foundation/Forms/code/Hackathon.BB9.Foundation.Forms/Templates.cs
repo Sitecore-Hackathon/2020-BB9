@@ -2,6 +2,23 @@
 {
     public static class Templates
     {
+        public static string EmailCampaignMessageId = "{C7175C0C-F142-40E2-9645-D6B33E9B920A}";
+
+        public static class TeamFolder
+        {
+            public static string TemplateId = "{6642799F-838E-461D-86B2-B99051D8DC8E}";
+        }
+
+        public static class HackathonSettings
+        {
+            public static string TemplateId = "{7E257750-F6B8-4C07-B353-5D789B2B6BDE}";
+
+            public static class Fields
+            {
+                public static string ActualContest = "{0F58B054-9C31-4FF1-97CB-BAA1A015B4AD}";
+            }
+        }
+
         public static class Team
         {
             public static string TemplateId = "{16B71753-E859-41CC-9343-DB2C26612E1B}";

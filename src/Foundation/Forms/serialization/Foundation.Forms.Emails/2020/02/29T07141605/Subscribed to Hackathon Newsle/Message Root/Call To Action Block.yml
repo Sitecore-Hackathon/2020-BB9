@@ -1,0 +1,30 @@
+﻿---
+ID: "5f180d6d-65a1-47ad-ab2a-e0632c608a17"
+Parent: "c48b67bd-292e-4f69-b4a7-a1766101a59e"
+Template: "6fa0bcf2-3153-4932-8763-410a0244acbb"
+Path: /sitecore/content/Email/Messages/2020/02/29T07141605/Subscribed to Hackathon Newsletter/Message Root/Call To Action Block
+DB: master
+BranchID: "89f09f47-6aca-41a9-acc6-2e33a0334c0c"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EEC70C05-B649-4F76-8F98-9F857C773B6A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T071416Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "81967970-db7a-4a51-9972-a6364f6718de"
+      Hint: Call to action link
+      Value: |
+        <link linktype="internal" text="Hackathon Home" title="Hackathon Home" class="call-to-action-link" querystring="" target="" id="{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}" />
+    - ID: "b0c903b1-f597-4268-9c44-faec6a95fa01"
+      Hint: Call to action text
+      Value: "You are successfully subscribed to Sitecore Hackathon newsletter. You will receive emails from us if a new event is announced or if we want to share information related to Hackathon.<br /><br />Thank you for participating!<br />"

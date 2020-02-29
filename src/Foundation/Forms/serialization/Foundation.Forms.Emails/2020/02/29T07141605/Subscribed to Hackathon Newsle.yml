@@ -1,0 +1,91 @@
+﻿---
+ID: "f4bf8a78-d3cb-41d4-8f58-4d0189a87a96"
+Parent: "eb553385-e298-44f7-a3d4-84a57e10dfab"
+Template: "078d8a76-f971-4891-b422-76c0bcf9fa03"
+Path: /sitecore/content/Email/Messages/2020/02/29T07141605/Subscribed to Hackathon Newsletter
+DB: master
+BranchID: "89f09f47-6aca-41a9-acc6-2e33a0334c0c"
+SharedFields:
+- ID: "0934bec4-325a-427b-95bb-46f78cea9591"
+  Hint: Message Type
+  Value: "{B2F77E26-C5AC-4A6B-BBB3-F290100EB3D8}"
+- ID: "09ad7c00-a8de-46f7-bc54-e7572e38c136"
+  Hint: Body
+  Value: "{C48B67BD-292E-4F69-B4A7-A1766101A59E}"
+- ID: "21f2a1e0-ac16-443b-b7a9-83504159f2bb"
+  Hint: Device
+  Value: "{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+- ID: "2bbf5276-ed11-4cd0-946f-66678b524457"
+  Hint: Campaign Position
+  Value: "{C1B8669B-C41A-4ED3-BF0D-E859CF880D42}"
+- ID: "6ec7a9e6-9fd5-4892-bbf6-11e76e0e5db8"
+  Hint: Start Time
+  Value: 20200229T073706Z
+- ID: "78f0b1f8-fdf4-4c1c-bec6-1ac68a210a52"
+  Hint: Campaign
+  Value: "{91E2FA35-09CA-4676-843C-22BA08EB38D5}"
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+- ID: "af0fe26a-a78b-491d-885c-03d95bc17342"
+  Hint: State
+  Value: Active
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{D35BA0F3-B378-466C-ADF3-0EF1D5F41369}">
+        <r
+          ds=""
+          id="{69EB7A6D-ACEF-4D06-A923-804918AA245E}"
+          par=""
+          ph="msg-html-title"
+          uid="{526AFB07-CE11-43CC-A8A1-4B906BC54FE6}" />
+        <r
+          ds="{AD9E91CA-BC2E-4B42-B7F5-5387310C6F21}"
+          id="{5A67BD04-F5C3-4114-98CE-B4DB50DC980B}"
+          par=""
+          ph="preview-area"
+          uid="{757549A5-5B45-4AF8-A37F-D5D4B7B9D1C4}" />
+        <r
+          ds="{8B390CC8-0C9B-46A9-B687-6D5C573C1851}"
+          id="{E89D305C-CF92-4445-ABC1-9EAB38F72ED7}"
+          par=""
+          ph="header-area"
+          uid="{FC745491-FBE9-4361-BEC6-9E10580ABFA2}" />
+        <r
+          ds="{5F180D6D-65A1-47AD-AB2A-E0632C608A17}"
+          id="{340A8528-3E66-4DF6-82E0-4228CC8C684F}"
+          par=""
+          ph="body-area"
+          uid="{BB09D4AC-2CB1-49FD-9F45-00AE88BDE543}" />
+        <r
+          ds="{FE393F7B-CDF1-4F7E-8DA3-FA9DE76F002F}"
+          id="{BF323449-F257-4EFB-9FF5-8248CA227393}"
+          par=""
+          ph="footer-area"
+          uid="{D655EFD4-23A4-40EC-A4DD-FC06413C8C52}" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{1866755F-E69A-4A3E-9D00-1A36120A822D}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Subscribed to Hackathon Newsletter
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "0d844c9c-bd6c-49b8-9475-947da791f268"
+      Hint: From Address
+      Value: test@test.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T071416Z

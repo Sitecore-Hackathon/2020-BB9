@@ -1,0 +1,69 @@
+﻿---
+ID: "018869f4-3a61-489d-9243-1ff91926f0ca"
+Parent: "c7175c0c-f142-40e2-9645-d6b33e9b920a"
+Template: "3f12d78c-b7b7-4157-98fc-da3322ee1a5b"
+Path: /sitecore/content/Email/Messages/2020/02/29T15593050/Sign Ups Successful/Message Root
+DB: master
+BranchID: "89f09f47-6aca-41a9-acc6-2e33a0334c0c"
+SharedFields:
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Type: Checkbox
+  Value: 1
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{D35BA0F3-B378-466C-ADF3-0EF1D5F41369}">
+        <r
+          ds=""
+          id="{69EB7A6D-ACEF-4D06-A923-804918AA245E}"
+          par=""
+          ph="msg-html-title"
+          uid="{526AFB07-CE11-43CC-A8A1-4B906BC54FE6}" />
+        <r
+          ds="{6397529E-BAE7-4889-B1EA-75E82283DD5E}"
+          id="{5A67BD04-F5C3-4114-98CE-B4DB50DC980B}"
+          par=""
+          ph="preview-area"
+          uid="{757549A5-5B45-4AF8-A37F-D5D4B7B9D1C4}" />
+        <r
+          ds="{9E76BDB4-14A1-41C7-A3FE-3C6660A421FB}"
+          id="{E89D305C-CF92-4445-ABC1-9EAB38F72ED7}"
+          par=""
+          ph="header-area"
+          uid="{FC745491-FBE9-4361-BEC6-9E10580ABFA2}" />
+        <r
+          ds="{74FAB653-ACBB-4D5A-9606-C71D3B25955E}"
+          id="{340A8528-3E66-4DF6-82E0-4228CC8C684F}"
+          par=""
+          ph="body-area"
+          uid="{BB09D4AC-2CB1-49FD-9F45-00AE88BDE543}" />
+        <r
+          ds="{A72E8ADA-89B1-42DD-99ED-870A0132D805}"
+          id="{BF323449-F257-4EFB-9FF5-8248CA227393}"
+          par=""
+          ph="footer-area"
+          uid="{D655EFD4-23A4-40EC-A4DD-FC06413C8C52}" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{71345229-76D0-4604-A095-203467A06B48}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T155930Z
+    - ID: "69909e89-5e8f-4a4b-9c16-b06a13f7b056"
+      Hint: AlternateText
+      Value: $urlwithtoken$
+    - ID: "c0bfd467-0b74-4efe-b7c9-1ecf7f0e5370"
+      Hint: Subject
+      Value: Sign Ups Successful

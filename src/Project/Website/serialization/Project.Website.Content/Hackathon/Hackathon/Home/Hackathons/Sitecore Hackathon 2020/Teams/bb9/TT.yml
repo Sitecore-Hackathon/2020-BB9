@@ -1,0 +1,30 @@
+﻿---
+ID: "76add776-e642-49c7-8668-2179d56cff2b"
+Parent: "688d29bc-c16a-4d29-9abb-d813aa4bda7a"
+Template: "741992d9-83ca-49b7-9a69-8cc7af3149f9"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2020/Teams/bb9/TT
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T184827Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        extranet\Anonymous
+    - ID: "92230e46-d534-45f4-a64b-842b2309cf89"
+      Hint: LinkedInProfile
+      Value: a
+    - ID: "9b1bb466-5594-48ca-a3d0-d27ee256fbbb"
+      Hint: GitHub User
+      Value: a
+    - ID: "eec2b56f-f2da-4ba0-8010-5a61980d0634"
+      Hint: TwitterProfile
+      Value: a
+    - ID: "fc0b8189-e74c-4b8f-91d6-3c465dcee74b"
+      Hint: Name
+      Value: TT

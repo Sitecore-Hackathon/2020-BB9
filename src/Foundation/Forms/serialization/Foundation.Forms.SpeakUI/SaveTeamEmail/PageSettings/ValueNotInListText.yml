@@ -1,0 +1,21 @@
+﻿---
+ID: "8715dfa7-d350-495a-836a-401598defae0"
+Parent: "0a171918-31a4-4c20-9e2d-12332416a319"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/SaveTeamEmail/PageSettings/ValueNotInListText
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: Select the email campaign message that you want to send to users when they successfully submitted the form.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T150648Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

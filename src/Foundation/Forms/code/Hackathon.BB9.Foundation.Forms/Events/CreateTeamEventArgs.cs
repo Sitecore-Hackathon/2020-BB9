@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Hackathon.BB9.Foundation.Forms.Models;
 using Sitecore.Events;
+using Sitecore.XConnect;
 
 namespace Hackathon.BB9.Foundation.Forms.Events
 {
@@ -44,6 +46,30 @@ namespace Hackathon.BB9.Foundation.Forms.Events
             get
             {
                 return this._evt.Country;
+            }
+        }
+
+        public Guid EmailCampaignId
+        {
+            get
+            {
+                return this._evt.EmailCampaignId;
+            }
+        }
+
+        public ContactIdentifier Identifier
+        {
+            get
+            {
+                return this._evt.Identifier;
+            }
+        }
+
+        public List<TeamMember> TeamMembers
+        {
+            get
+            {
+                return this._evt.TeamMembers;
             }
         }
 

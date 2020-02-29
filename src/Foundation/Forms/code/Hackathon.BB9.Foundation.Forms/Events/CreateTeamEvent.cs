@@ -1,4 +1,8 @@
-﻿using System.Runtime.Serialization;
+﻿using System;
+using System.Collections.Generic;
+using System.Runtime.Serialization;
+using Hackathon.BB9.Foundation.Forms.Models;
+using Sitecore.XConnect;
 
 namespace Hackathon.BB9.Foundation.Forms.Events
 {
@@ -17,12 +21,24 @@ namespace Hackathon.BB9.Foundation.Forms.Events
         [DataMember]
         public string Country { get; set; }
 
-        public CreateTeamEvent(string name, string contactEmail, string contactGitHubProfile, string country)
+        [DataMember]
+        public Guid EmailCampaignId { get; set; }
+
+        [DataMember]
+        public ContactIdentifier Identifier { get; set; }
+
+        [DataMember]
+        public List<TeamMember> TeamMembers { get; set; }
+
+        public CreateTeamEvent(string name, string contactEmail, string contactGitHubProfile, string country, Guid emailCampaignId, ContactIdentifier identifier, List<TeamMember> TeamMembers)
         {
             this.Name = name;
             this.ContactEmail = contactEmail;
             this.ContactGitHubProfile = ContactGitHubProfile;
             this.Country = country;
+            this.EmailCampaignId = emailCampaignId;
+            this.Identifier = identifier;
+            this.TeamMembers = TeamMembers;
         }
 
         public CreateTeamEvent()
