@@ -1,6 +1,6 @@
 ﻿---
-ID: "c3197fe4-b132-4d25-9552-b6ec849e9340"
-Parent: "a31bcb73-20a9-4bc2-91d8-776898b7c796"
+ID: "3662eff8-e0ea-49b5-bccd-8be166cefc6f"
+Parent: "7e257750-f6b8-4c07-b353-5d789b2b6bde"
 Template: "e269fbb5-3750-427a-9149-7aa950b49301"
 Path: /sitecore/templates/Project/Hackathon/_Hackathon Settings/Hackathon Settings
 DB: master
@@ -11,4 +11,4 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200229T061338Z
+      Value: 20200229T120733Z

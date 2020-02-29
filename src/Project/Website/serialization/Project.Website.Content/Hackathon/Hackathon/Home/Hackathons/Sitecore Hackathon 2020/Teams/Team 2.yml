@@ -1,0 +1,33 @@
+﻿---
+ID: "c3037712-6a71-48b5-be56-d7e9d4d45c38"
+Parent: "33ef61dd-df11-47aa-8d13-b5f4b3535933"
+Template: "16b71753-e859-41cc-9343-db2c26612e1b"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2020/Teams/Team 2
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "127a496f-d255-428c-877c-88c574e10507"
+      Hint: Contact Email
+      Value: team2@team2.com
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T054754Z
+    - ID: "398a304b-6ade-4480-8c8b-83a05eeead38"
+      Hint: Name
+      Value: Team 2
+    - ID: "65bbc0c0-f014-43e9-9d70-d4ddea6b2708"
+      Hint: Country
+      Value: Country 2
+    - ID: "b3854d7e-d2dc-49e5-b866-1b3a0db27148"
+      Hint: Topic
+      Value: "{8BC177E2-C0A1-45E3-B0C2-9D837CA3B747}"
+    - ID: "edd9dde4-4f30-4d04-8512-3fdcf925515f"
+      Hint: Contact GitHub Profile
+      Value: teammember1

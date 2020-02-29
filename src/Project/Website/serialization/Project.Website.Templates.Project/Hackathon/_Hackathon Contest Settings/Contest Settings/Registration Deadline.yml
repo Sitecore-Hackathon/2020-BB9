@@ -1,0 +1,21 @@
+﻿---
+ID: "b633ba43-38f1-4949-92c1-175236170bf6"
+Parent: "c3197fe4-b132-4d25-9552-b6ec849e9340"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Project/Hackathon/_Hackathon Contest Settings/Contest Settings/Registration Deadline
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: Datetime
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T061338Z

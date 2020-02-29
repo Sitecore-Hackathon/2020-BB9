@@ -1,0 +1,23 @@
+﻿---
+ID: "da03d004-7376-4ebe-834e-9dc55abd5f21"
+Parent: "90fc36b1-ea41-4b92-b195-af96769e9aa8"
+Template: "7ad85045-9861-42fc-83e5-64a3442f579f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2020/Topics/Sitecore Meetup Website
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T060026Z
+    - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
+      Hint: Description
+      Value: In recent events the Meetup.com site began charging for the registering and hosting of meetings as well as other features previously free. Many of the Sitecore User Groups rely on Meetup
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{0C1A6B7E-2D6F-4841-83C7-604F760B04DA}"
+    - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
+      Hint: Name
+      Value: Sitecore Meetup Website

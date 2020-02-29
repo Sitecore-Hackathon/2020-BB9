@@ -1,0 +1,26 @@
+﻿---
+ID: "4888f383-3ca7-42ac-b08c-5c0b9a9d0c0b"
+Parent: "bfccc144-a784-4223-9de9-679e77ad08dd"
+Template: "741992d9-83ca-49b7-9a69-8cc7af3149f9"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2019/Teams/Team 4/Team Member 2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T054832Z
+    - ID: "92230e46-d534-45f4-a64b-842b2309cf89"
+      Hint: LinkedInProfile
+      Value: "https://www.linkedin.com/in/team-member-2"
+    - ID: "9b1bb466-5594-48ca-a3d0-d27ee256fbbb"
+      Hint: GitHub User
+      Value: teammember2
+    - ID: "eec2b56f-f2da-4ba0-8010-5a61980d0634"
+      Hint: TwitterProfile
+      Value: 
+    - ID: "fc0b8189-e74c-4b8f-91d6-3c465dcee74b"
+      Hint: Name
+      Value: Team Member 2

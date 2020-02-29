@@ -1,0 +1,51 @@
+﻿---
+ID: "72fa21a4-c2c4-4d27-b9f3-3e1c265b3a7b"
+Parent: "b51a589e-a48d-4d36-9362-50bd485b14ad"
+Template: "62a01a3a-b9b3-40f6-8d85-9869c1943499"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Partial Designs/Footer
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{9859B0A6-D5C5-4279-9AD4-19D8BE1B58EA}"
+              p:before="*"
+              s:ds="{7560DB53-0231-454E-AD27-B97A93954DA0}"
+              s:id="{6B5B0FE6-5C85-4487-BA7E-F8C2ECC186A8}"
+              s:par=""
+              s:ph="/footer/container-1/sitecoreFormsWrapper-2" />
+            <r
+              uid="{FD6C9D20-970F-4F56-A3D5-86F97463393F}"
+              p:after="r[@uid='{9859B0A6-D5C5-4279-9AD4-19D8BE1B58EA}']"
+              s:id="{6AB4EE29-CB78-4DCE-A316-3E6C3D5513F5}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="/footer/container-1" />
+            <r
+              uid="{63904670-68AB-475F-A99D-420C153BEAD7}"
+              p:after="*[1=2]"
+              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="footer" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T080645Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

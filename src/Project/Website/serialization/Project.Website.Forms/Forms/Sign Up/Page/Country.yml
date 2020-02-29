@@ -12,6 +12,9 @@ SharedFields:
 - ID: "467c22b4-b1a2-4620-b8bb-74c2d8b369fc"
   Hint: Label Css Class
   Value: countryLabel
+- ID: "5d09f88a-0e2a-4f87-8151-af4a2aa26ec3"
+  Hint: Value Provider
+  Value: "{6ACCD7A8-A345-479E-BA07-D3D1695A3275}"
 - ID: "71061c01-a495-4bf3-a52c-d378346bfae2"
   Hint: Max Length
   Value: 56
@@ -35,6 +38,9 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300
+- ID: "f6696439-2dac-4183-8f3d-1979188d8336"
+  Hint: Value Provider Parameters
+  Value: country
 Languages:
 - Language: en
   Versions:

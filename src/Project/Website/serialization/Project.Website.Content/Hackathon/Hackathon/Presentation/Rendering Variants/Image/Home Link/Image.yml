@@ -1,0 +1,39 @@
+﻿---
+ID: "624bb95f-b05b-408e-b4d0-207c68c4109d"
+Parent: "bd37614a-9dd7-4d87-b1b6-742b939588b8"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Image/Home Link/Image
+DB: master
+BranchID: "cc5f46b4-6376-48b6-ad03-adc13508527f"
+SharedFields:
+- ID: "34400b24-5666-4295-bbc2-b87c2020aa6d"
+  Hint: LinkAttributes
+  Value: href=%2F
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Image
+- ID: "7310794a-15c4-4b69-bebe-29e084aff571"
+  Hint: UseFieldRenderer
+  Type: Checkbox
+  Value: 0
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D07FE7FD-99EC-4CC4-A48E-25358B3DB657}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T052532Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

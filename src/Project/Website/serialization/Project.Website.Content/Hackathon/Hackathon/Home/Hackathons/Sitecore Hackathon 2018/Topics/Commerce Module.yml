@@ -1,0 +1,23 @@
+﻿---
+ID: "6fdc1d19-6579-459b-b982-402ef769e9c1"
+Parent: "9e102878-31d7-48eb-932d-1e0bbef27f58"
+Template: "7ad85045-9861-42fc-83e5-64a3442f579f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2018/Topics/Commerce Module
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T055805Z
+    - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
+      Hint: Description
+      Value: Commerce Module Description
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{8C2A2FE8-9973-4193-9CC2-FAC960A8D4FB}"
+    - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
+      Hint: Name
+      Value: Commerce Module

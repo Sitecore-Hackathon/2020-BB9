@@ -1,0 +1,23 @@
+﻿---
+ID: "42a3dbfc-7b38-4c66-a634-5220b79e6e92"
+Parent: "3a070838-9fc9-42e9-bea0-4a03a6ea9ac8"
+Template: "7ad85045-9861-42fc-83e5-64a3442f579f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2019/Topics/Sitecore Experience Accelerator
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T055920Z
+    - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
+      Hint: Description
+      Value: Sitecore Experience Accelerator Description
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{427D7A6A-4EAB-4831-9F6F-C6C30AA23842}"
+    - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
+      Hint: Name
+      Value: Sitecore Experience Accelerator

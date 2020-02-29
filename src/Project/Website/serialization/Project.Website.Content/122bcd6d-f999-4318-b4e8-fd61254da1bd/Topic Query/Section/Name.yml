@@ -1,0 +1,25 @@
+﻿---
+ID: "2e51a1b4-d5fc-4156-9ac5-09b986892e2e"
+Parent: "0493d448-6c7b-4a8a-8674-6731b829e331"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Topics/Topic Query/Section/Name
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Name
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{6E84D69B-7F26-4B19-906D-469C3354EBB0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T085417Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

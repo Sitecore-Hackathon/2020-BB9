@@ -1,0 +1,14 @@
+﻿---
+ID: "3a070838-9fc9-42e9-bea0-4a03a6ea9ac8"
+Parent: "1429ca40-e0bb-4995-b004-c122097b4e59"
+Template: "2f8cbaa0-8100-4c23-8606-bd37ff9bc52f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2019/Topics
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T055855Z
