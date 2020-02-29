@@ -1,0 +1,14 @@
+﻿---
+ID: "64ba365f-d722-4496-8fb5-4cd634c44b3f"
+Parent: "3e40491a-94ea-4a53-b97e-b43825a8e650"
+Template: "adb6ca4f-03ef-4f47-b9ac-9ce2ba53ff97"
+Path: /sitecore/system/Marketing Control Panel/Automation Plans/2020/02/29/05/42
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T054208Z
