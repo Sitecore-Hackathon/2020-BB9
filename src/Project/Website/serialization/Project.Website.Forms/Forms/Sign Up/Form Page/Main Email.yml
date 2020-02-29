@@ -2,7 +2,7 @@
 ID: "bb81490c-72b3-4eae-bb82-26b7908f14d2"
 Parent: "da8ccba8-b3d9-43c4-babe-cc8ebeef97d9"
 Template: "886adec1-abf8-40e1-9926-d9189c4e8e1b"
-Path: /sitecore/Forms/Sign Up/Page/Main Email
+Path: /sitecore/Forms/Sign Up/Form Page/Main Email
 DB: master
 SharedFields:
 - ID: "467c22b4-b1a2-4620-b8bb-74c2d8b369fc"

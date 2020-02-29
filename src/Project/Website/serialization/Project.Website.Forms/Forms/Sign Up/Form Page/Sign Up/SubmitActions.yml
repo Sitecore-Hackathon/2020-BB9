@@ -2,7 +2,7 @@
 ID: "01fa8c8b-00a9-4db4-bd31-260ab84acf8a"
 Parent: "cf720bb5-ea91-466e-8cbb-9145ea33582f"
 Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
-Path: /sitecore/Forms/Sign Up/Page/Sign Up/SubmitActions
+Path: /sitecore/Forms/Sign Up/Form Page/Sign Up/SubmitActions
 DB: master
 Languages:
 - Language: en
