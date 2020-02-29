@@ -1,8 +1,8 @@
 ﻿---
-ID: "24cef161-4ab0-4ca9-aa87-1962906be802"
-Parent: "698e963e-6e69-43cc-ae69-c3e9b2650358"
+ID: "c312d38b-9f0d-4c1a-9822-6c3f5f2f94d0"
+Parent: "3b7bcb7a-1388-4bb4-88ff-822dd0c69768"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
-Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page List/List Hackatons
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/Judges
 DB: master
 Languages:
 - Language: en
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20200229T103757Z
+      Value: 20200229T170043Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

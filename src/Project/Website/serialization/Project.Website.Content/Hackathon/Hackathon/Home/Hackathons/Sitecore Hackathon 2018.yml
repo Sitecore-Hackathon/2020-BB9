@@ -19,6 +19,26 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Sitecore Hackathon 2018
+    - ID: "601d99e3-d27a-438d-9201-01b46948ca4b"
+      Hint: Prizes
+      Value: |
+        <p>The winning teams will each receive a $100 Amazon gift card per team member, making the total $300 per team. The Amazon gift cards will be emailed to the email addresses on file no later than 10 days after the winning team is announced. If Amazon gift cards are not available in the region, alternate arrangements will be made.</p>
+        <p>We will showcase your company logo and/or your team photo on this website.</p>
+        <p><strong>As a bonus, <a href="http://www.teamdevelopmentforsitecore.com/" target="_blank">Hedgehog</a> is sponsoring prizes for this years Hackathon. Category winners will each receive FREE licenses for Razl 4!</strong></p>
+        <p>Here is a message from Hedgehog:<br />
+        <em><strong>Compare &amp; Merge Sitecore Databases at High Speed with Razl 4.0</strong></em></p>
+        <p>The latest version of Razl stays true to its core function: it allows developers to have a complete side by side comparison between two Sitecore databases. Helping our users get their work done faster is always our goal, so we’ve added performance improvements and streamlined workflow including:</p>
+        <ul>
+        <li>Multi-threaded copy offers a huge time savings in moving items between servers.</li>
+        <li>Custom field specific editor controls for editing/comparing multi-list fields, link fields, and Presentation Details.</li>
+        <li>Toolbar search function allows developers to use the internal Sitecore search to find items, searching both servers simultaneously and displaying the result in the Deep Compare area.</li>
+        <li>Improved multi-selection of items makes the tool much easier to use and improves the experience with Deep Compare.</li>
+        </ul>
+        <ol>
+        <li>No purchase necessary.</li>
+        <li>Must 21 years or older at time of entry.</li>
+        <li>Additional terms, conditions and restrictions apply.</li>
+        </ol>
     - ID: "92edc924-2338-4724-a8b8-f29d90f74271"
       Hint: Content
       Value: |
@@ -33,3 +53,60 @@ Languages:
     - ID: "b754ad3c-cd31-49c4-b22e-27ac65df799b"
       Hint: Title
       Value: Sitecore Hackathon 2018
+    - ID: "e285367d-f357-4ae4-8155-95da8d6ea717"
+      Hint: Judges
+      Value: |
+        <ol>
+            <li><strong>Community Judges</strong>
+            <ul>
+                <li>Michael Reynolds - <a rel="noopener noreferrer" href="https://twitter.com/mike_i_reynolds" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/michaelianreynolds" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Kamruz Jaman -<a rel="noopener noreferrer" href="https://twitter.com/jammykam" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/kamruzjaman" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Anders Laub -<a rel="noopener noreferrer" href="https://twitter.com/AndersLaub" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/anderslaub/" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Jason Wilkerson -<a rel="noopener noreferrer" href="https://twitter.com/LonghornTaco" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/jasonmwilkerson/" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Mark Cassidy -<a rel="noopener noreferrer" href="https://twitter.com/cassidydotdk" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/corepoint/" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Neil Shack -<a rel="noopener noreferrer" href="https://twitter.com/nshack31" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/neil-shack/" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Una Verhoeven -<a rel="noopener noreferrer" href="https://twitter.com/unaverhoeven" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/unaverhoeven/" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+                <li>Alex Washtell -<a rel="noopener noreferrer" href="https://twitter.com/kasaku_dev" target="_blank"><img alt="" height="20" width="20" src="-/media/2BB8198F0FEA4BC59B13F3C1BC16D9F5.ashx?h=20&amp;w=20" /></a> <a rel="noopener noreferrer" href="https://www.linkedin.com/in/awashtell/" target="_blank"><img alt="" height="50" width="50" src="-/media/DC51BC6C96924865A3A7B40F48DED329.ashx?h=20&amp;w=20" style="height: 20px; width: 20px;" /></a></li>
+            </ul>
+            </li>
+            <li><strong>Sitecore</strong>
+            <ul>
+                <li>Rob Earlam</li>
+                <li>Mark van Aalst</li>
+                <li>Alex Shyba</li>
+                <li>Adam Najmanowicz</li>
+                <li>Jason St-Cyr</li>
+            </ul>
+            </li>
+        </ol>
+    - ID: "f3fe79e5-f1d9-4684-bb6d-6d1f8f1c6561"
+      Hint: Requirements
+      Value: |
+        <p>All teams are required to submit the following as part of their entry submission on or before the end of the Hackathon on Saturday March 3rd 2018 at 8PM EST. The modules should be based on <a href="https://dev.sitecore.net/Downloads/Sitecore_Experience_Platform/90/Sitecore_Experience_Platform_90_Update1.aspx" target="_blank">Sitecore 9.0 rev. 171219 (Update-1)</a>.</p>
+        <ul>
+        <li>Sitecore 9.0 Module (Module install package)</li>
+        <li>Module Code in the Git source repository (Provided)
+        <ul>
+        <li>Cleanliness of code</li>
+        <li>Commenting where necessary</li>
+        <li>Code Structure</li>
+        <li>Standard coding standards &amp; naming conventions</li>
+        </ul>
+        </li>
+        <li><strong>Precise and Clear Installation Instructions document (1 – 2 pages)</strong></li>
+        <li><strong>Module usage documentation on Readme.md file on the Git Repository (2 – 5 pages)</strong>
+        <ul>
+        <li>Module Purpose</li>
+        <li>Module Sitecore Hackathon Category</li>
+        <li>How does the end user use the Module?</li>
+        <li>Screenshots, etc.</li>
+        </ul>
+        </li>
+        <li><strong>Create a 2 – 10 minutes video explaining the module’s functionality (A link to youtube video)</strong>
+        <ul>
+        <li>What problem was solved</li>
+        <li>How did you solve it</li>
+        <li>What is the end result</li>
+        </ul>
+        </li>
+        </ul>

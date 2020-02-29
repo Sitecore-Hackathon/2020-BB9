@@ -11,7 +11,7 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
-    <span><a href={{i_item.LinkedInProfile}}><img src="/-/media/Project/Hackathon/Hackathon/linkedin-logo.png"></a></span>
+    <span><a href={{i_item.LinkedInProfile}}><img src="/-/media/Project/Hackathon/Hackathon/linkedin-logo.png" style="width: 20px;"></a></span>
 Languages:
 - Language: en
   Versions:

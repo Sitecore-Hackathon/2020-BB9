@@ -1,0 +1,22 @@
+﻿---
+ID: "81f94760-cbe9-4bf9-a013-c0a1a5d99660"
+Parent: "1b55e640-4382-4788-aca8-8a0d8a1d46a7"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/Requirements/Requirements
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Requirements
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T170032Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
