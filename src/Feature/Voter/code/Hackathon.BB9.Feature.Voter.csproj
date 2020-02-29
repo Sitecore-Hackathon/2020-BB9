@@ -282,6 +282,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\VoterController.cs" />
+    <Compile Include="Models\Team.cs" />
+    <Compile Include="Models\Topic.cs" />
     <Compile Include="Processors\RegisterRoutes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
