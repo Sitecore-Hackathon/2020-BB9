@@ -8,6 +8,9 @@ SharedFields:
 - ID: "467c22b4-b1a2-4620-b8bb-74c2d8b369fc"
   Hint: Label Css Class
   Value: mainEmailLabel
+- ID: "5d09f88a-0e2a-4f87-8151-af4a2aa26ec3"
+  Hint: Value Provider
+  Value: "{6ACCD7A8-A345-479E-BA07-D3D1695A3275}"
 - ID: "71c6de8e-4718-4977-b83e-b49552ee14b0"
   Hint: Conditions
   Value: |
@@ -24,6 +27,9 @@ SharedFields:
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 200
+- ID: "f6696439-2dac-4183-8f3d-1979188d8336"
+  Hint: Value Provider Parameters
+  Value: mainEmail
 Languages:
 - Language: en
   Versions:
