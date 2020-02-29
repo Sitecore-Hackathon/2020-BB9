@@ -1,0 +1,20 @@
+﻿---
+ID: "b1836522-194b-4adb-b7a5-e060a86ca0cb"
+Parent: "9e102878-31d7-48eb-932d-1e0bbef27f58"
+Template: "7ad85045-9861-42fc-83e5-64a3442f579f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2018/Topics/xConnect Module
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T055822Z
+    - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
+      Hint: Description
+      Value: xConnect Module Description
+    - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
+      Hint: Name
+      Value: xConnect Module

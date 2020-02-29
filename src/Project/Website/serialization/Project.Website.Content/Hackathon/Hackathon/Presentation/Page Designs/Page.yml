@@ -1,0 +1,21 @@
+﻿---
+ID: "090cebb4-e2de-42e4-970e-df0ea7395e15"
+Parent: "c1c486de-bfa7-49e9-88c9-396f4cbd7c14"
+Template: "47a9f3f1-6412-4beb-90c2-db81b5efa303"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Page Designs/Page
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{011A2B91-8BB4-433B-8360-525018548FCD}|{72FA21A4-C2C4-4D27-B9F3-3E1C265B3A7B}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{B43D07BD-61D5-448F-9323-8B6ACAD4F3C4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T071629Z

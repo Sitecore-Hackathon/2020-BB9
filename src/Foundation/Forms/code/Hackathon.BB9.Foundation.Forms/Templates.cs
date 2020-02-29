@@ -11,7 +11,7 @@
                 public static string Name = "{398A304B-6ADE-4480-8C8B-83A05EEEAD38}";
                 public static string ContactEmail = "{127A496F-D255-428C-877C-88C574E10507}";
                 public static string ContactGitHubProfile = "{EDD9DDE4-4F30-4D04-8512-3FDCF925515F}";
-                public static string Country = "{651177F9-CECA-47CB-9BA1-86EBFBBA8D0E}";
+                public static string Country = "{65BBC0C0-F014-43E9-9D70-D4DDEA6B2708}";
             }
         }
 

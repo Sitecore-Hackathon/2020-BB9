@@ -4,6 +4,10 @@ Parent: "8b4420f7-50a1-4f65-92ce-cfcfcb3fca71"
 Template: "3a0d8544-dab4-46c5-ab2d-584b788ee8bf"
 Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons
 DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{090CEBB4-E2DE-42E4-970E-DF0EA7395E15}"
 Languages:
 - Language: en
   Versions:

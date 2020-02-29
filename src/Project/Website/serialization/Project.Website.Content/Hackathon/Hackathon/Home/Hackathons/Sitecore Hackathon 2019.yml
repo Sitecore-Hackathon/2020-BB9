@@ -1,0 +1,30 @@
+﻿---
+ID: "1429ca40-e0bb-4995-b004-c122097b4e59"
+Parent: "1337a523-9746-4896-98a0-bc46c803654d"
+Template: "2ee34fbb-91da-44f4-85be-d0ff2778f1c8"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2019
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{11B4A790-A4AA-4FFA-B2F6-625FB1F2F279}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T062106Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Sitecore Hackathon 2019
+    - ID: "a78109da-46ee-4455-b070-d1e43934afac"
+      Hint: Team Member Limit
+      Value: 3
+    - ID: "b633ba43-38f1-4949-92c1-175236170bf6"
+      Hint: Registration Deadline
+      Value: 20190204T223000Z
+    - ID: "b754ad3c-cd31-49c4-b22e-27ac65df799b"
+      Hint: Title
+      Value: Sitecore Hackathon 2019
