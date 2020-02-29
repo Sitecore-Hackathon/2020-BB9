@@ -5,6 +5,10 @@ Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams
 DB: master
 SharedFields:
+- ID: "696c70e2-eb4e-425d-81e4-802bab6a03cf"
+  Hint: AllowedInTemplates
+  Type: Multilist
+  Value: "{2EE34FBB-91DA-44F4-85BE-D0FF2778F1C8}"
 - ID: "e1d5adba-8348-4127-9bb6-455936653839"
   Hint: CssClass
   Value: 

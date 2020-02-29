@@ -11,7 +11,9 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
+    {{ if i_item.TwitterProfile != "" }}
     <span><a href={{i_item.TwitterProfile}}><img src="/-/media/Project/Hackathon/Hackathon/twitter-logo.png"  style="width: 20px;"></a></span>
+    {{end}}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 50
