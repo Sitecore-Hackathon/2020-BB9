@@ -1,0 +1,18 @@
+﻿---
+ID: "50a4ecf6-2b17-4740-a456-48af9a53f181"
+Parent: "a31bcb73-20a9-4bc2-91d8-776898b7c796"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Hackathon/_Hackathon Contest Settings/Content
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T165934Z
