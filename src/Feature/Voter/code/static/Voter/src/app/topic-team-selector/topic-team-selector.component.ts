@@ -19,6 +19,7 @@ export class TaskPageComponent implements OnInit {
   teams: Team[];
   topics: Topic[];
 
+  isEditing = false;
   isErrorResponse = false;
 
   constructor(
@@ -54,10 +55,13 @@ export class TaskPageComponent implements OnInit {
   }
 
   save() {
+    this.isEditing = true;
     this.itemService.save(this.teams).subscribe({
       next: data => {
+        this.isEditing = false;
       },
       error: error => {
+        this.isEditing = false;
       }
     });
   }

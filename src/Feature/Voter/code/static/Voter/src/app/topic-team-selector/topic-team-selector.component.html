@@ -1,13 +1,25 @@
 <sc-page>
   <div scPageHeader>
-    <sc-global-header [appName]="'Hackathon Voter' | translate">
+    <sc-global-header appName="Hackathon Voter">
       <a href="#" scGlobalLogo></a>
       <!-- AccountInformation gets accountName and accountImageUrl automatically from Sitecore context which is configured in AppModule -->
       <sc-account-information (logout)="logoutService.logout()"></sc-account-information>
     </sc-global-header>
   </div>
   <div scPageAppHeader>
-    <sc-application-header [text]="'Topic-Team selector' | translate" class="applicationheader"></sc-application-header>
+    <sc-application-header text="Topic-Team selector" class="applicationheader"></sc-application-header>
+  </div>
+  <div scPageActionBar>
+    <sc-action-bar>
+      <sc-action-bar-left>
+        <sc-back-button></sc-back-button>
+      </sc-action-bar-left>
+      <sc-action-bar-right>
+        <button type="button" scIconButton [(scToggle)]="isEditing">
+          <sc-icon size="small" icon="context_toggle"></sc-icon>
+        </button>
+      </sc-action-bar-right>
+    </sc-action-bar>
   </div>
 
   <article scPageContent class="p-3">
@@ -18,8 +30,8 @@
         <p class="card-text">Select the submitted topics for the teams.</p>
         <div class="list-group mb-2" *ngIf="(teams)">
           <div *ngFor="let team of teams" href="#" class="list-group-item flex-column align-items-start">
-            <div class="d-flex w-100 justify-content-between">
-              <h5 class="mb-1">{{ team.Name }}</h5>
+            <div class="d-flex mb-1">
+              <h5 class="mt-2 mr-5">{{ team.Name }}</h5>
               <sc-dropdown>
                 <button scButton scDropdownToggle>{{team.TopicName != null ? team.TopicName : "Topic"}}</button>
                 <sc-dropdown-menu>

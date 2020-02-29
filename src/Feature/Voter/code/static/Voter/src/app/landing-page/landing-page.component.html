@@ -1,21 +1,26 @@
 <sc-page [showNav]="isNavigationShown">
   <div scPageHeader>
-    <sc-global-header [appName]="'APP_NAME' | translate" [(show)]="isNavigationShown">
+    <sc-global-header appName="Hackathon Voter" [(show)]="isNavigationShown">
       <a href="#" scGlobalLogo></a>
       <!-- AccountInformation gets accountName and accountImageUrl automatically from Sitecore context which is configured in AppModule -->
       <sc-account-information (logout)="logoutService.logout()"></sc-account-information>
     </sc-global-header>
   </div>
-  <aside scPageNav>
-    <nav>
-      <a routerLink="/topicteamselector" class="navlink">{{ 'Topic-Team selector' | translate }}</a>
-    </nav>
-  </aside>
   <div scPageAppHeader>
-    <sc-application-header [text]="'DASHBOARD_PAGE' | translate"></sc-application-header>
+    <sc-application-header text="Hackathon Voter"></sc-application-header>
   </div>
-  <article scPageContent>
-    <h1>Welcome to the Sitecore Hackathon voter application</h1>
-    <p>Please use the sidebar navigation to do your action.</p>
+
+  <article scPageContent class="p-3">
+    <div class="card mb-3">
+      <div class="card-block">
+        <h1 class="card-title">Welcome to the Sitecore Hackathon voter application</h1>
+        <p>Chose from the following actions:</p>
+        <ul>
+          <li>
+            <a routerLink="/topicteamselector" class="button">Topic-Team selector</a>
+          </li>
+        </ul>
+      </div>
+    </div>
   </article>
 </sc-page>
