@@ -1,0 +1,14 @@
+﻿---
+ID: "3afeefb8-ae0d-4be9-86f0-49eab11ec294"
+Parent: "1cc1375f-1afb-4f96-9470-a145394afc24"
+Template: "1cc1375f-1afb-4f96-9470-a145394afc24"
+Path: /sitecore/templates/Foundation/Hackathon/Team Member Form/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T082724Z
