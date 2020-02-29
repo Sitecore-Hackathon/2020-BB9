@@ -15,6 +15,9 @@ Languages:
     - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
       Hint: Description
       Value: The Marketplace was once a destination for popular modules to be showcased to the community. Consider the ways in which modules can be shared and installed.
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{C3037712-6A71-48B5-BE56-D7E9D4D45C38}"
     - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
       Hint: Name
       Value: Sitecore Marketplace Website

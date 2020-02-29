@@ -15,6 +15,9 @@ Languages:
     - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
       Hint: Description
       Value: Admin UI Module Description
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{71282EAF-2C51-4325-A53D-DAC957E1BFF6}"
     - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
       Hint: Name
       Value: Admin UI Module

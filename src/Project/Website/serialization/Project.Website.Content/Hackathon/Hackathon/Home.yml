@@ -26,34 +26,28 @@ Languages:
           <d
             id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
             <r
-              uid="{49880B13-D971-473E-BE63-439BCFB4D8B6}"
+              uid="{EFAE4BB9-0737-441D-A7D2-432A7567BFCA}"
               p:before="*"
-              s:id="{2E991AA4-4B08-43D2-AD2B-17C11E69A499}"
-              s:par="SourceType=%7B90105CB9-2CFD-4151-9FA8-6CDF92B158C2%7D&amp;Reset Caching Options&amp;ListSignature&amp;PageSize&amp;Offset&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B24CEF161-4AB0-4CA9-AA87-1962906BE802%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=7"
-              s:ph="/main/container-3/container-6" />
-            <r
-              uid="{5FCB1D4F-2E7C-48AD-94F3-03BE5E8BA6E8}"
-              p:after="r[@uid='{49880B13-D971-473E-BE63-439BCFB4D8B6}']"
               s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
-              s:ph="/main/container-3" />
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7BE5FF686A-F7D4-46AF-8B36-E55B9157E13E%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/main/container-2" />
             <r
-              uid="{7C69064C-5663-486E-A5BF-F6D28F096998}"
-              p:after="r[@uid='{5FCB1D4F-2E7C-48AD-94F3-03BE5E8BA6E8}']"
+              uid="{D6A2C35C-46A2-4D37-8FE2-98A4DF9363C1}"
+              p:after="r[@uid='{EFAE4BB9-0737-441D-A7D2-432A7567BFCA}']"
+              s:id="{8B0393E9-EE25-4F0B-A5FD-777B3AD2C737}"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2D27F43E-F2E8-4AA5-99A5-6AB0D7CEEB74%7D&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="/main/container-1" />
+            <r
+              uid="{31629F05-D393-4D97-8176-05BD659E14FA}"
+              p:after="r[@uid='{D6A2C35C-46A2-4D37-8FE2-98A4DF9363C1}']"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
-              s:ph="/main/container-3" />
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
             <r
-              uid="{3A00DB82-BABA-4CBC-8EE2-DDC5CA9FA5BE}"
-              p:after="r[@uid='{7C69064C-5663-486E-A5BF-F6D28F096998}']"
-              s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=6"
-              s:ph="/main/container-3" />
-            <r
-              uid="{9675F95D-083C-4C43-880B-8FF0AD1E958C}"
+              uid="{5B3039E3-C989-4595-95E2-26DB57AE448C}"
               p:after="*[1=2]"
               s:id="{896A2C68-1362-4E88-8BA0-1805AE6D4837}"
-              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:par="Reset Caching Options&amp;GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;BackgroundImage&amp;Styles&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
               s:ph="main" />
           </d>
         </r>
@@ -72,7 +66,7 @@ Languages:
         sitecore\Admin
     - ID: "92edc924-2338-4724-a8b8-f29d90f74271"
       Hint: Content
-      Value: <h2>Welcome to the Sitecore Hackathon site.</h2>
+      Value: <h1>Welcome to the Sitecore Hackathon site.</h1>
     - ID: "b754ad3c-cd31-49c4-b22e-27ac65df799b"
       Hint: Title
       Value: Hackathon

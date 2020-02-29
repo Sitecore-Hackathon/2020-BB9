@@ -7,10 +7,10 @@ DB: master
 SharedFields:
 - ID: "1eb8ae32-e190-44a6-968d-ed904c794ebf"
   Hint: Source
-  Value: "query:./../*"
+  Value: "query:./../../*[@@templateid='{6642799F-838E-461D-86B2-B99051D8DC8E}']/*[@@templateid='{16B71753-E859-41CC-9343-DB2C26612E1B}']"
 - ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
   Hint: Type
-  Value: Droptree
+  Value: Droplink
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 300

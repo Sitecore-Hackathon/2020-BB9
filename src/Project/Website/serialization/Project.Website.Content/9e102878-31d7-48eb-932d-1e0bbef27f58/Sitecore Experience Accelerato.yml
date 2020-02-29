@@ -15,6 +15,9 @@ Languages:
     - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
       Hint: Description
       Value: Sitecore Experience Accelerator Description
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{ECBA90F9-3E4F-4F55-B363-CC93237BF85C}"
     - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
       Hint: Name
       Value: Sitecore Experience Accelerator

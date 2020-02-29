@@ -2,7 +2,7 @@
 ID: "23ab1639-4008-4f5c-8627-f00a45374aa3"
 Parent: "eca71271-3baf-4d34-97d9-90256e4c980d"
 Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
-Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams/Team Query/Section/Team Member Query/Section/Twitter Profile
+Path: "/sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams/div-row/Team Query/div-col-sm/ul/Team Member Query/li/Twitter Profile"
 DB: master
 SharedFields:
 - ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
@@ -11,7 +11,9 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
-    <a href={{i_item.TwitterProfile}}><img src="/~/media/twitter-logo.png"></a>
+    {{ if i_item.TwitterProfile != "" }}
+    <span><a href={{i_item.TwitterProfile}}><img src="/-/media/Project/Hackathon/Hackathon/twitter-logo.png"  style="width: 20px;"></a></span>
+    {{end}}
 - ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
   Hint: __Sortorder
   Value: 50

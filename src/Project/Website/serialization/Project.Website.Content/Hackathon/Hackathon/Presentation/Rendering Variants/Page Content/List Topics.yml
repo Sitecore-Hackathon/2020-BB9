@@ -4,6 +4,11 @@ Parent: "3b7bcb7a-1388-4bb4-88ff-822dd0c69768"
 Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
 Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Topics
 DB: master
+SharedFields:
+- ID: "696c70e2-eb4e-425d-81e4-802bab6a03cf"
+  Hint: AllowedInTemplates
+  Type: Multilist
+  Value: "{2EE34FBB-91DA-44F4-85BE-D0FF2778F1C8}"
 Languages:
 - Language: en
   Versions:

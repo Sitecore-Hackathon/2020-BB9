@@ -15,6 +15,9 @@ Languages:
     - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
       Hint: Description
       Value: Commerce Module Description
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{8C2A2FE8-9973-4193-9CC2-FAC960A8D4FB}"
     - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
       Hint: Name
       Value: Commerce Module

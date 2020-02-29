@@ -25,6 +25,9 @@ Languages:
     - ID: "65bbc0c0-f014-43e9-9d70-d4ddea6b2708"
       Hint: Country
       Value: Country 2
+    - ID: "b3854d7e-d2dc-49e5-b866-1b3a0db27148"
+      Hint: Topic
+      Value: "{8BC177E2-C0A1-45E3-B0C2-9D837CA3B747}"
     - ID: "edd9dde4-4f30-4d04-8512-3fdcf925515f"
       Hint: Contact GitHub Profile
       Value: teammember1
