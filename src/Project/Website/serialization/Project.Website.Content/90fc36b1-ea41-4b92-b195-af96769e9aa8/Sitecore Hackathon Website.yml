@@ -15,6 +15,9 @@ Languages:
     - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
       Hint: Description
       Value: "This idea is sooo meta! Several years have passed with the current version and it’s in need of a refresh."
+    - ID: "a8536507-fdf0-4e1a-9d6b-fc1f8109a568"
+      Hint: Winner Team
+      Value: "{854374D6-BEB4-4A8C-BB43-A92E241DA129}"
     - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
       Hint: Name
       Value: Sitecore Hackathon Website

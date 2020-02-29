@@ -1,0 +1,18 @@
+﻿---
+ID: "e279d42f-c26f-4a63-838f-b49c4ff8121f"
+Parent: "c097411d-6ee9-463d-ab3a-8352d959a28f"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Hackathon/Hackathon/Hackathon/images/flags
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140423T154035

@@ -19,6 +19,11 @@ Languages:
     - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
       Hint: NavigationTitle
       Value: Sitecore Hackathon 2018
+    - ID: "92edc924-2338-4724-a8b8-f29d90f74271"
+      Hint: Content
+      Value: |
+        <p>The 2018 Sitecore Hackathon is a free online community driven event organized by <a href="https://twitter.com/akshaysura13" target="_blank">Akshay Sura</a> and supported by Sitecore. (Shout out to <a href="https://twitter.com/pieterbrink123" target="_blank">Pieter</a> and <a href="https://twitter.com/markvanaalst" target="_blank">Mark</a>).</p>
+        <p>Teams that have signed up by <strong>6 pm EST February 16, 2018</strong> will have the opportunity to participate in the contest. Eligible teams will have 24 hours — starting <strong>Friday March 2nd 2018 at 8PM EST</strong> and ending <strong>Saturday March 3rd 2018 at 8PM EST</strong> – to build and submit a Sitecore module best implementing the idea for the Hackathon, as determined by our panel of judges. The idea(s) will be announced an hour before the Hackathon starts on March 2nd.</p>
     - ID: "a78109da-46ee-4455-b070-d1e43934afac"
       Hint: Team Member Limit
       Value: 3

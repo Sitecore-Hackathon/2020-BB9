@@ -1,0 +1,18 @@
+﻿---
+ID: "5335f02f-baff-4838-be66-44115333e314"
+Parent: "57939aff-3314-4e88-92a6-b2acd163f791"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: "/sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams/div-row/Team Query/div-col-sm/ul/Team Member Query"
+DB: master
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*[@@templateid='{741992D9-83CA-49B7-9A69-8CC7AF3149F9}']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T091937Z

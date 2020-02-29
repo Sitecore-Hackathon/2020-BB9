@@ -2,7 +2,7 @@
 ID: "4bf17c36-774f-4e98-9bae-d4c7f308e66f"
 Parent: "eca71271-3baf-4d34-97d9-90256e4c980d"
 Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
-Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams/Team Query/Section/Team Member Query/Section/LinkedIn Profile
+Path: "/sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams/div-row/Team Query/div-col-sm/ul/Team Member Query/li/LinkedIn Profile"
 DB: master
 SharedFields:
 - ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
@@ -11,7 +11,7 @@ SharedFields:
 - ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
   Hint: Template
   Value: |
-    <a href={{i_item.LinkedInProfile}}><img src="/~/media/linkedin-logo.png"></a>
+    <span><a href={{i_item.LinkedInProfile}}><img src="/-/media/Project/Hackathon/Hackathon/linkedin-logo.png"></a></span>
 Languages:
 - Language: en
   Versions:
