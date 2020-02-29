@@ -1,0 +1,20 @@
+﻿---
+ID: "82ff216d-fce4-416b-8805-362b05e19e26"
+Parent: "90fc36b1-ea41-4b92-b195-af96769e9aa8"
+Template: "7ad85045-9861-42fc-83e5-64a3442f579f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2020/Topics/Sitecore Hackathon Website
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T060100Z
+    - ID: "5195c895-aeec-4780-9869-3259447a4d9e"
+      Hint: Description
+      Value: "This idea is sooo meta! Several years have passed with the current version and it’s in need of a refresh."
+    - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
+      Hint: Name
+      Value: Sitecore Hackathon Website

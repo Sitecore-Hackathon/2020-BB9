@@ -1,0 +1,17 @@
+﻿---
+ID: "cddc5d67-9961-47d4-bd04-d2ab702c325a"
+Parent: "0363e5d3-929c-4332-9af5-7a443ed22cda"
+Template: "6642799f-838e-461d-86b2-b99051d8dc8e"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/Sitecore Hackathon 2018/Teams
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T054730Z
+    - ID: "e63723d1-3f9e-4c9d-9c6a-cf937e1c4a0c"
+      Hint: Member Limit
+      Value: 3

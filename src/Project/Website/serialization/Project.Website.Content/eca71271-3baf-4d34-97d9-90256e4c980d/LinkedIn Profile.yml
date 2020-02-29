@@ -1,0 +1,26 @@
+﻿---
+ID: "4bf17c36-774f-4e98-9bae-d4c7f308e66f"
+Parent: "eca71271-3baf-4d34-97d9-90256e4c980d"
+Template: "8fcd3cfe-8b3b-423e-8176-6a7c72cb43fc"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants/Page Content/List Teams/Team Query/Section/Team Member Query/Section/LinkedIn Profile
+DB: master
+SharedFields:
+- ID: "8a85a595-3298-4eb1-96dd-c882ee5802ae"
+  Hint: Tag
+  Value: 
+- ID: "936e68b4-5346-4adb-9b77-79771d0b40dc"
+  Hint: Template
+  Value: |
+    <a href={{i_item.LinkedInProfile}}><img src="/~/media/linkedin-logo.png"></a>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T111235Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
