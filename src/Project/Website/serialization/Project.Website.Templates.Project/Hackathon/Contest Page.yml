@@ -1,0 +1,28 @@
+﻿---
+ID: "2ee34fbb-91da-44f4-85be-d0ff2778f1c8"
+Parent: "1e95b2dd-903f-4892-bbc6-06064e74fa21"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Hackathon/Contest Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: |
+    {1930BBEB-7805-471A-A3BE-4858AC7CF696}
+    {3A0D8544-DAB4-46C5-AB2D-584B788EE8BF}
+    {A31BCB73-20A9-4BC2-91D8-776898B7C796}
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{81EF5F15-4EC8-4427-9E86-88062FB38829}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T061706Z

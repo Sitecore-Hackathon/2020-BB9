@@ -1,0 +1,100 @@
+﻿---
+ID: "158073be-3642-40b6-975a-1da3512b8e17"
+Parent: "b51a589e-a48d-4d36-9362-50bd485b14ad"
+Template: "c2a8e276-1757-4957-9dd5-8669b79fd80d"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Partial Designs/Metadata
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: "metadata-partial-design"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{CF1C96C9-05BC-4713-8E35-71E34C5EB503}"
+          p:before="*"
+          s:id="{3A91FC31-BA4C-4BC7-B6E4-29B4BB768736}"
+          s:par=""
+          s:ph="body-bottom" />
+        <r
+          uid="{8E1B452E-4F89-4C18-992F-DEA08B6AE224}"
+          p:after="r[@uid='{CF1C96C9-05BC-4713-8E35-71E34C5EB503}']"
+          s:id="{24374313-44B3-4E9C-9C55-C4194019D1B3}"
+          s:par=""
+          s:ph="body-bottom" />
+        <r
+          uid="{B6168131-EB13-4E20-9FE7-B85E3B691291}"
+          p:after="r[@uid='{8E1B452E-4F89-4C18-992F-DEA08B6AE224}']"
+          s:id="{3EA2AA92-8885-4C28-9C5D-37E94721A481}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{D9FE7E33-34FD-4660-B5E0-C07A7C85C821}"
+          p:after="r[@uid='{B6168131-EB13-4E20-9FE7-B85E3B691291}']"
+          s:id="{5DA64EA1-D631-4880-A1F6-9C5291B4E1AE}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{7C981B18-862E-4040-A31F-28568FCDE6E3}"
+          p:after="r[@uid='{D9FE7E33-34FD-4660-B5E0-C07A7C85C821}']"
+          s:id="{B9EE29F7-2CCE-4172-9E51-D65DB818E3FA}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{C7D0DA04-28E1-43F7-9FA2-2BEB152B472C}"
+          p:after="r[@uid='{7C981B18-862E-4040-A31F-28568FCDE6E3}']"
+          s:id="{E3E3F484-0C27-42CC-9F36-E2D33430C8CD}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{5C7DB26E-9EC6-4188-9BBB-F0622184ADE3}"
+          p:after="r[@uid='{C7D0DA04-28E1-43F7-9FA2-2BEB152B472C}']"
+          s:id="{B07712AD-28B9-4B93-A524-D8BD29CA9D8D}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{B162BCF8-38A6-4D8C-B62F-DBFAA6DE1558}"
+          p:after="r[@uid='{5C7DB26E-9EC6-4188-9BBB-F0622184ADE3}']"
+          s:id="{CA9D504B-B04F-4327-BCEB-A789BA5C3865}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{D7B31878-0DF4-4F64-B63E-D6270C9E24F6}"
+          p:after="r[@uid='{B162BCF8-38A6-4D8C-B62F-DBFAA6DE1558}']"
+          s:id="{0A6935A8-3AC2-4977-8677-1F4360B212EE}"
+          s:par=""
+          s:ph="head" />
+        <r
+          uid="{F7B2ECFA-4DEF-4F01-9F57-24299BDB46D5}"
+          p:after="*[1=2]"
+          s:id="{3B138D20-BB25-449D-898A-670997743402}"
+          s:par=""
+          s:ph="head" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{C7A35BB6-7B78-49A5-A0CE-23A6DFA3E00E}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Metadata
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T052459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

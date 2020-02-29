@@ -1,0 +1,18 @@
+﻿---
+ID: "6a629b6d-9d60-44a3-9f5d-185af96d4197"
+Parent: "b4cda351-6753-474f-85d4-5b3f652b9357"
+Template: "26fce9bf-0256-458d-8281-a713a5bf5520"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Cache Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T052505Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

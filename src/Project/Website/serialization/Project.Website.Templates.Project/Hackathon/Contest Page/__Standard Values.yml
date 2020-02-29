@@ -1,0 +1,23 @@
+﻿---
+ID: "81ef5f15-4ec8-4427-9e86-88062fb38829"
+Parent: "2ee34fbb-91da-44f4-85be-d0ff2778f1c8"
+Template: "2ee34fbb-91da-44f4-85be-d0ff2778f1c8"
+Path: /sitecore/templates/Project/Hackathon/Contest Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {3A0D8544-DAB4-46C5-AB2D-584B788EE8BF}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+    {6642799F-838E-461D-86B2-B99051D8DC8E}
+    {2F8CBAA0-8100-4C23-8606-BD37FF9BC52F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T061826Z

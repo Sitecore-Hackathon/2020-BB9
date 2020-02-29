@@ -1,0 +1,22 @@
+﻿---
+ID: "011a2b91-8bb4-433b-8360-525018548fcd"
+Parent: "b51a589e-a48d-4d36-9362-50bd485b14ad"
+Template: "62a01a3a-b9b3-40f6-8d85-9869c1943499"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Partial Designs/Header
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T071606Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,17 @@
+﻿---
+ID: "f4430d29-05c0-425f-a02e-0f592ab6bede"
+Parent: "3a070838-9fc9-42e9-bea0-4a03a6ea9ac8"
+Template: "7ad85045-9861-42fc-83e5-64a3442f579f"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/2019/Topics/Admin UI Module
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T055939Z
+    - ID: "d323be2a-947c-4564-85ed-49910f1746a0"
+      Hint: Name
+      Value: Admin UI Module

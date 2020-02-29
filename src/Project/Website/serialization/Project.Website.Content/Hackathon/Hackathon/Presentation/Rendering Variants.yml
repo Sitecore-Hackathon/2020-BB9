@@ -1,0 +1,18 @@
+﻿---
+ID: "27cff848-1d0b-4dc0-8e89-aa102ba1f773"
+Parent: "b4cda351-6753-474f-85d4-5b3f652b9357"
+Template: "bbb9ae71-c6b4-4201-83e7-ac5b3ef373dc"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/Rendering Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T052510Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

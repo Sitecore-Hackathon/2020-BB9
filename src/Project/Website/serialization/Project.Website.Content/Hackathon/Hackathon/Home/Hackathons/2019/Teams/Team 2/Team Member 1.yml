@@ -1,0 +1,26 @@
+﻿---
+ID: "d28edebd-f5f4-4fc6-8cb6-73a583ed2ceb"
+Parent: "52f5693f-cf04-4c66-8ecc-3c510ecdcd41"
+Template: "741992d9-83ca-49b7-9a69-8cc7af3149f9"
+Path: /sitecore/content/Hackathon/Hackathon/Home/Hackathons/2019/Teams/Team 2/Team Member 1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T054832Z
+    - ID: "92230e46-d534-45f4-a64b-842b2309cf89"
+      Hint: LinkedIn Profile
+      Value: "https://www.linkedin.com/in/team-member-1"
+    - ID: "9b1bb466-5594-48ca-a3d0-d27ee256fbbb"
+      Hint: GitHub User
+      Value: teammember1
+    - ID: "eec2b56f-f2da-4ba0-8010-5a61980d0634"
+      Hint: Twitter Profile
+      Value: "https://twitter.com/team-member-1"
+    - ID: "fc0b8189-e74c-4b8f-91d6-3c465dcee74b"
+      Hint: Name
+      Value: Team Member 1

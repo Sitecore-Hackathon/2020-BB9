@@ -1,0 +1,23 @@
+﻿---
+ID: "728e6022-be41-4806-a8e6-c3955531d60a"
+Parent: "b4cda351-6753-474f-85d4-5b3f652b9357"
+Template: "3a1dde20-0a86-492a-81ee-5f56c827fa94"
+Path: /sitecore/content/Hackathon/Hackathon/Presentation/POI Types
+DB: master
+BranchID: "f4371cd2-fd6d-4c4e-910d-8e1095c67b25"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{3F659530-2328-44A4-95F0-9C8C488011D4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T052521Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

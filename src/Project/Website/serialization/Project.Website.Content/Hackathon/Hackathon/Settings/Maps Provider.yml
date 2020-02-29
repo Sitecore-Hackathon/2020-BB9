@@ -1,0 +1,18 @@
+﻿---
+ID: "c6d6b7eb-4d2d-4c72-82de-86313651e219"
+Parent: "767afbd3-1741-47cc-b0a0-d3bba5de5bfd"
+Template: "70461699-48e4-45fa-b74b-0cce849fca6a"
+Path: /sitecore/content/Hackathon/Hackathon/Settings/Maps Provider
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20200229T052521Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
